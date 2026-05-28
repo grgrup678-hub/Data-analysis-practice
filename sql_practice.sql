@@ -1,3 +1,11 @@
+-- Beginner SQL Practice
+-- Topics:
+-- SELECT
+-- WHERE
+-- GROUP BY
+-- JOIN
+-- LEFT JOIN
+-- Aggregation
 
 --Employee table AND Salary table exist in the database
 --Show all employees
