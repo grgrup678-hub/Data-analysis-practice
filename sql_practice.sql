@@ -1,13 +1,13 @@
 -- Beginner SQL Practice
--- Topics:
--- SELECT
--- WHERE
--- GROUP BY
--- JOIN
--- LEFT JOIN
--- Aggregation
+--
+-- This project contains SQL exercises focused on:
+-- SELECT, WHERE, ORDER BY, GROUP BY,
+-- JOINs and Aggregations.
+--
+-- Sample tables:
+-- employees
+-- salaries
 
---Employee table AND Salary table exist in the database
 --Show all employees
 SELECT * FROM employees;
 
